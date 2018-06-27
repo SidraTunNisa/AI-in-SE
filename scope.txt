@@ -1,9 +1,0 @@
-  SCOPE WRITING OF OUR PROJECT:
-
-The COMPUTER VISUAL INTELLIGENCE (CVI) software returns set of five images from a large database, in response to a User’s image query or User’s text query, through the technique of Convolutional Neural network. A training dataset of 50 images is stored in the CVI to train convolutional neural network for classifying these 50 images into 10 categories. Each category will be stored as a separate dataset in the software. This depicts that these 50 images will be categorized into 10 dataset which are stored in the software. 
-
-A User can made an image query from a test dataset of 10 images. In response to a User query CVI software will return a set of 5 images as output. These five resulted image will be similar to input image.
- 
-
-A User can also made a text query /statement.The software will detect objects in input query statement and will display most appropriate set of 5 images of detected object after searching all the 10 dataset.
-
